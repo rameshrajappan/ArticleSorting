@@ -31,7 +31,7 @@ The following data-testid attributes are required in the component for the tests
 
 ## Environment 
 
-- React Version: 16.13.1
+- React Version: 18.2.0
 - Default Port: 8000
 
 ## Project Specifications 
